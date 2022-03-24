@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 25025260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55fe2d53e2d3820c6a44e1b647b926a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Plugins/Assets/Audio/bg.mp3
+Dependencies: []

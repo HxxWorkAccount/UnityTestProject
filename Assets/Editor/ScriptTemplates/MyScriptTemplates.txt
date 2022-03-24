@@ -1,0 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #NAME# : MonoBehaviour
+{
+	void MyFunc() {
+		Debug.Log("Script Templates Test.");
+	}
+}

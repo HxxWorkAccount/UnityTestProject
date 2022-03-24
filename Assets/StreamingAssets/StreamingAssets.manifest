@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1607377855
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: b.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: new material.unity3d
+      Dependencies:
+        Dependency_0: b.unity3d
+    Info_2:
+      Name: cube.unity3d
+      Dependencies:
+        Dependency_0: new material.unity3d
+    Info_3:
+      Name: audio.unity3d
+      Dependencies: {}
